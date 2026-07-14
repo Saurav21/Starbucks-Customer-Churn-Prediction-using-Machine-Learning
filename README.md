@@ -95,7 +95,7 @@ This solution can help businesses:
 ## Repository Structure
 
 ```text
-├── Starbucks_Customer_Churn_Prediction.ipynb
+├── starbucks_customer_churn_prediction.ipynb
 │    
 ├── data/
 │   └── starbucks_customer_ordering_patterns.csv
